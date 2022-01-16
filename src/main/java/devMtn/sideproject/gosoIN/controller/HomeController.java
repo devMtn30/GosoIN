@@ -1,4 +1,4 @@
-package devMtn.sideproject.gosoIN.Controller;
+package devMtn.sideproject.gosoIN.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
